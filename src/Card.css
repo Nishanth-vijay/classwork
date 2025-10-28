@@ -1,0 +1,17 @@
+#card {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 5vw;
+}
+
+#card>div {
+    border: 2px dashed blue;
+
+    width: 30%;
+}
+
+#card img {
+
+    width: 100%;
+
+}
